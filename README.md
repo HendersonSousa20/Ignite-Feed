@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Ignite feed" src="../src/Cover.png" width="100%">
+  <img alt="projeto Ignite feed" src="./src/assets/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
