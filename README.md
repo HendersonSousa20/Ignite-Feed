@@ -42,7 +42,7 @@ Desenvolvido com o proposito de treinar os fundamentos do React.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK] (https://www.figma.com/design/gmRTScxUd0bByrQCzfsw9E/Ignite-Feed-(Community)?node-id=1-35&t=uQuVOYyOinVdAzqp-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/gmRTScxUd0bByrQCzfsw9E/Ignite-Feed-(Community)?node-id=1-35&t=uQuVOYyOinVdAzqp-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
